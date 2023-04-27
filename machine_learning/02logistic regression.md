@@ -14,7 +14,7 @@ $$
 
 
 
-![image-20230421191459570](C:\Users\Dreamoon\AppData\Roaming\Typora\typora-user-images\image-20230421191459570.png)
+![image-20230427214608497](D:\Personal\AI_notes\machine_learning\assets\image-20230427214608497.png)
 
 1. 相应的函数值表示达到1的概率，例如S(2.5) = 0.7即表示达到1的概率为0.7。
 2. 根据$-{\vec{w}*\vec{x}^{(i)}+b}$的正负号即可做出分类。
